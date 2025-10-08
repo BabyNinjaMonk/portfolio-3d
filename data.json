@@ -1,0 +1,44 @@
+{
+  "name": "Vedant Narkhede",
+  "tag": "Marketing Ops · Data Storyteller · Photographer",
+  "pic": "assets/vedant.jpg",
+  "email": "vedant.narkhede@outlook.com",
+  "phone": "+33 7 53 54 10 56",
+  "linkedin": "https://linkedin.com/in/vedantnarkhede",
+  "github": "https://github.com/BabyNinjaMonk",
+  "about": "MBA + Engineer. 4 years steering €3 M campaigns for AXA, L’Oréal, Kantar. Lean Six Sigma. 30 k photos, 12 countries.",
+  "work": [
+    {
+      "co": "AXA GIE",
+      "role": "Digital Transformation Officer",
+      "date": "Aug 24 – Feb 25",
+      "desc": "3 global grant campaigns (€3 M) → +38 % applicants via AI-CRM overhaul."
+    },
+    {
+      "co": "L’Oréal CPD",
+      "role": "Marketing Project Manager APAC",
+      "date": "Jul 23 – Dec 23",
+      "desc": "Launched 14 hair-care SKUs; €500 k each, 112 % sell-in vs target."
+    },
+    {
+      "co": "Kantar",
+      "role": "Market Analyst",
+      "date": "May 22 – Aug 22",
+      "desc": "Dashboards for Amazon & Royal Enfield; insights baked into GTM."
+    }
+  ],
+  "skills": {
+    "Consumer Insights": 90,
+    "Power BI / Looker": 85,
+    "CRM Automation": 80,
+    "Project Management": 85,
+    "SEO / Content": 75,
+    "Photography": 90
+  },
+  "edu": [
+    "MBA Brand Mgmt – INSEEC, Paris 2023",
+    "MBA Marketing - Swiss School of Management, Rome 2023",
+    "B.E. Electrical – Pune Univ. 2020"
+  ],
+  "certs": ["Lean Six Sigma Green Belt", "Inside LVMH", "Business Analysis (IBM)"]
+}
